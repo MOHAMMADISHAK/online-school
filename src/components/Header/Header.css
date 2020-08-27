@@ -1,0 +1,50 @@
+
+.header{
+    width: 100%;
+   
+
+}
+.header img{
+    height: 50px;
+    width : 50px;
+}
+.header-1{
+    display: inline-block;
+}
+.form{
+    margin-left: 200px;
+}
+.form-input{
+
+    padding: 12px 20px;
+    margin: 8px 0;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+#home{
+    margin-left: 50px;
+    text-decoration: none;
+    color:white;
+    
+}
+#blog{
+    margin-left: 50px;
+    text-decoration: none;
+    color:white;
+  
+}
+#courses{
+    margin-left: 50px;
+    text-decoration: none;
+    color:white;
+ 
+}
+#sign-up{
+    margin-left: 50px;
+    text-decoration: none;
+}
+#sign-in{
+    margin-left: 50px;
+    text-decoration: none;
+}

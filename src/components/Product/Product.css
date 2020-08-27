@@ -1,0 +1,8 @@
+ .product {
+    border-bottom : 1px solid lightgray; 
+    padding-top: 20px;
+    padding-bottom : 20px;  
+}
+.description{
+    margin-left: 10px;
+}
